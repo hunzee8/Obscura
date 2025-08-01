@@ -125,3 +125,5 @@ securitycheck --continuous 600 --json > audit.log
    ```bash
    sudo chown -R $USER:$USER /var/log/obscura.log
    ```
+
+## Not Tested
